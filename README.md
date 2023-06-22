@@ -1,1 +1,3 @@
-# Leniolabs_Challenge02
+# Leniolabs
+## Challenge 2
+### https://leniolabs-challenge02.netlify.app/
